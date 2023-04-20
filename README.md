@@ -1,5 +1,5 @@
 # Hello-world
-codes for Da1
+CODES FOR DA-1
 
 /** Write a program which calculates expression n^n where n is an integer value filled
 by the user **/
